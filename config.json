@@ -1,0 +1,20 @@
+{
+  "locations": [
+    {
+      "model": "adder",
+      "x": -1172.22,
+      "y": -1586.66,
+      "z": 4.66,
+      "heading": 50.0,
+      "plate": "CONFIGCAR"
+    },
+    {
+      "model": "baller",
+      "x": -1086.55,
+      "y": -249.28,
+      "z": 37.76,
+      "heading": 110.0,
+      "plate": "QBSPAWN"
+    }
+  ]
+}
